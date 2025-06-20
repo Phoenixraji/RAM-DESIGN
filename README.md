@@ -12,7 +12,8 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-**DESCRIPTION**
+**DESCRIPTION**:
+
 Description of Synchronous RAM Design and Simulation
 As part of the VLSI internship at CodTech, this task involved designing a simple synchronous RAM module using Verilog. The goal was to implement memory with read and write operations that function on the rising edge of a clock signal, and to demonstrate its functionality through simulation.
 
